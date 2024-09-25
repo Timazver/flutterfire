@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
   s.dependency 'Flutter'
 
-  s.dependency 'firebase_core', '11.0.0
+  s.dependency 'firebase_core', '11.0.0,
   s.dependency 'Firebase/Auth', '11.2.0'
 
   s.static_framework = true
